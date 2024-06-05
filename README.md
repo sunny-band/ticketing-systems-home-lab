@@ -6,7 +6,7 @@ Another personal project in continuation of simulating real-world IT tasks. Lear
 Credits to **NetworkChuck** for providing a tutorial video on how to set up Peppermint. https://youtu.be/Kq0BMVhbFkA?si=2YwljM3wolAYXDQR
 
 
-## 1. Using Ubuntu through VirtualBox to run the lab.
+## 1. Using Linux (Ubuntu) through VirtualBox to run the lab.
 ![1](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/dfcac7d1-9a23-4283-b445-c1a67d2cc1a1)
 
 
